@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TutoRetrofitRxAndroid</string>
+
+    <string name="url_json">"https://jsonplaceholder.typicode.com/"</string>
+
+    <string name="message_fetch">"Users have been fetch"</string>
+</resources>
